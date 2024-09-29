@@ -1,0 +1,52 @@
+
+.main{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 160px;
+}
+.one{
+    border: solid;
+    background-color: aqua;
+    border-radius: 10px;
+    width: 600px;
+    height: 300px;
+}
+.two{
+    background-color: blue;
+    border: solid;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    margin-top: 45px;
+
+}
+.three{
+    background-color: yellowgreen;
+    border: solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    margin-top: 42px;
+
+}
+#hh{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 9px;
+}
+/* body{
+    background-color: brown;
+}
+.data{
+    background-color: yellowgreen;
+    text-decoration: underline;
+}
+#data1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+} */
